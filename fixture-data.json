@@ -1,0 +1,1442 @@
+[
+  {
+    "name": "ADIYAMAN FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ADIYAMAN FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "AMCASPOR",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "AMCASPOR",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "AMPUL FC",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "AMPUL FC",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ASIST FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ASIST FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ATASPOR",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ATASPOR",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ATAŞEHİR UTD",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ATAŞEHİR UTD",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "BPFK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "BPFK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ÇÜRÜK FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ÇÜRÜK FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "DEMOSPOR",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "DEMOSPOR",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "DINAMO İSTANBUL",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "DINAMO İSTANBUL",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "DIRILIŞ FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "DIRILIŞ FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "DIVAN-I HÜMAYUN SK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "DIVAN-I HÜMAYUN SK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "DRAGOS UTD",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "DRAGOS UTD",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "EKINOKS",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "EKINOKS",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "FOMSPOR",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "FOMSPOR",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "GARDENLIFE FC",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "GARDENLIFE FC",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "N",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "N",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "KABİLE FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "KABİLE FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "KALAMIŞ FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "KALAMIŞ FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "LEĞEN FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "LEĞEN FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "LIMONATA FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "LIMONATA FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "MOLOTOF FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "MOLOTOF FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "NARFEX",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "NARFEX",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "OLİMPİK LİMON SK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "OLİMPİK LİMON SK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "POTALI FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "POTALI FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "TAKATA FC",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "TAKATA FC",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "VAHŞİ BABUNLAR",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "VAHŞİ BABUNLAR",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "YARSENAL",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "YARSENAL",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ZFC SK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ZFC SK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ÖRDEKSPOR",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ÖRDEKSPOR",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "H",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ÖRNEKGÜCÜ SK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ÖRNEKGÜCÜ SK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ŞARKÖYSPOR",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ŞARKÖYSPOR",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  },
+  {
+    "name": "ŞİZOFREN FK",
+    "fixtures": [
+      {
+        "week": 1,
+        "opponent": "ŞİZOFREN FK",
+        "venue": "away"
+      },
+      {
+        "week": 2,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 3,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 4,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 5,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 6,
+        "opponent": "A",
+        "venue": "away"
+      },
+      {
+        "week": 7,
+        "opponent": "H",
+        "venue": "away"
+      },
+      {
+        "week": 8,
+        "opponent": "A",
+        "venue": "away"
+      }
+    ]
+  }
+]
