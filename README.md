@@ -1,2 +1,2 @@
-# Ata-ehir-Futbol-Ligi
+# Atasehir-Futbol-Ligi
 FUTBOL LİGİ
